@@ -1,4 +1,4 @@
-#  Engineering Summer Internship Project: Development of Intelligent Search Engine
+#  Engineering Summer Internship Project: Development of Intelligent Search Engine About Illnesses
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
